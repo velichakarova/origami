@@ -1,0 +1,19 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "content": "Like most hobbies, if you perfect the basics of origami, you can embark on more complicated projects in the future. The beginner origami tutorials shared below will help you lay the foundation for origami mastery.",
+            "author": "Gosho"
+        },
+        {
+            "id": 2,
+            "content": "Like most hobbies, if you perfect the basics of origami, you can embark on more complicated projects in the future. The beginner origami tutorials shared below will help you lay the foundation for origami mastery.",
+            "author": "Pesho"
+        },
+        {
+            "id": 3,
+            "content": "Like most hobbies, if you perfect the basics of origami, you can embark on more complicated projects in the future. The beginner origami tutorials shared below will help you lay the foundation for origami mastery.",
+            "author": "Ivan"
+        }
+    ]
+}
