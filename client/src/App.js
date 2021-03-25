@@ -19,7 +19,7 @@ function App() {
           <Route path="/" exact>
             <PostLisComponent />
           </Route>
-          <Route path="/about" component={About} />
+          <Route path="/about/:name" component={About} />
           <Route path="/contact-us" component={ContactUs} />
           <Route
             path="/contact-email"
